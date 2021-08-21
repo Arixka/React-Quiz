@@ -15,7 +15,7 @@ export const QuizApi = [
 		question: "Who is the creator of the Super Smash Bros. Series?",
 		correct_answer: "Masahiro Sakurai",
 		incorrect_answers: [
-			"Reggie Fils-Aim&eacute;",
+			"Reggie Fils-Aimé",
 			"Bill Trinen",
 			"Hideo Kojima",
 		],
@@ -102,7 +102,7 @@ export const QuizApi = [
 		incorrect_answers: [
 			"Zul&#039;Aman",
 			"Blackwing Lair",
-			"Temple of Ahn&#039;Qiraj",
+			"Temple of Ahn'Qiraj ",
 		],
 	},
 ]
