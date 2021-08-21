@@ -6,71 +6,69 @@ body {
 }
 
 .App {
-	text-align: center;
-	font-family: arial;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	flex-direction: column;
+  text-align: center;
+  font-family: arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .menu {
-	width: 500px;
-	height: 500px;
-	border-radius: 10px;
-	background-color: #30cfd0;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+  width: 500px;
+  height: 500px;
+  border-radius: 10px;
+  background-color: #30cfd0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.menu input,
-button {
-	width: 300px;
-	height: 50px;
-	margin: 5px;
-	border: none;
-	border-radius: 5px;
-	font-size: 20px;
+.menu input, button {
+  width: 300px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
 }
 
 button:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 .quiz {
-	width: 500px;
-	height: 500px;
-	border-radius: 10px;
-	background-color: lightseagreen;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+  width: 500px;
+  height: 500px;
+  border-radius: 10px;
+  background-color: lightseagreen;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
+
 .EndScreen {
-	width: 500px;
-	height: 500px;
-	border-radius: 10px;
-	background-color: lightseagreen;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
+  width: 500px;
+  height: 500px;
+  border-radius: 10px;
+  background-color: lightseagreen;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 #nextQuestion {
-	width: 200px;
+  width: 200px;
 }
-.menu,
-.quiz,
-.finish,
-h1 {
-	color: white;
+.menu, .quiz, .finish, h1 {
+  color: white;
 }
 
 h3 {
-	color: #ffffff;
+  color: #ffffff;
+
 }
